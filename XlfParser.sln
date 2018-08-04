@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlfParser", "XlfParser\XlfParser.csproj", "{4A22CD03-8EAD-46D0-B1C7-06390F71D4FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{19351BF1-1A35-4760-A956-0E9DCDFB9B17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4A22CD03-8EAD-46D0-B1C7-06390F71D4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A22CD03-8EAD-46D0-B1C7-06390F71D4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A22CD03-8EAD-46D0-B1C7-06390F71D4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19351BF1-1A35-4760-A956-0E9DCDFB9B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19351BF1-1A35-4760-A956-0E9DCDFB9B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19351BF1-1A35-4760-A956-0E9DCDFB9B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19351BF1-1A35-4760-A956-0E9DCDFB9B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
