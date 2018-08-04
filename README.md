@@ -2,7 +2,7 @@
 XML Localization Interchange File Format
 
 
-[NuGet](https://www.google.com)
+[NuGet](https://www.nuget.org/packages/XlfParser)
 ```c#
 class Program
     {
